@@ -18,7 +18,7 @@ import Changeaddress from './Changeaddress';
 import Paymentpage from './Paymentpage';
 import AddAddressForm from './Address';
 
-import landingpage from './LandingPage.jsx'
+import Landingpage from './LandingPage.jsx'
 import Orders from './Orders';
 import Profile from './Profile';
 import OrdersPage from './OrdersPage';
