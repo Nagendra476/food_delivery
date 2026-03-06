@@ -18,7 +18,7 @@ import Changeaddress from './Changeaddress';
 import Paymentpage from './Paymentpage';
 import AddAddressForm from './Address';
 
-import LandingPage from './Landingpage';
+
 import Orders from './Orders';
 import Profile from './Profile';
 import OrdersPage from './OrdersPage';
@@ -35,7 +35,7 @@ function App() {
     <div className="App font-sans">
       <div className="flex-grow">
           <Routes>
-            <Route path="/" element={<LandingPage />} />
+            
             <Route path="/cart" element={<CartSummary />} />
             <Route path="/upload" element={<UploadCategories />} />
             <Route path="/view" element={<Categories />} />
